@@ -13,10 +13,10 @@ This repository documents my journey to becoming a world-class systems engineer,
 ---
 
 ## Repository Structure
-/projects - Hands-on coding projects demonstrating core concepts
-/notes - Detailed explanations of systems engineering concepts
-/daily-logs - Daily learning journals and reflections
-/resources - Curated learning resources and references
+- /projects - Hands-on coding projects demonstrating core concepts
+- /notes - Detailed explanations of systems engineering concepts
+- /daily-logs - Daily learning journals and reflections
+- /resources - Curated learning resources and references
 
 
 ---
