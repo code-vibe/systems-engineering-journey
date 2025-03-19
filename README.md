@@ -60,5 +60,5 @@ I'm currently focused on **operating systems concepts** and implementing a simpl
 
 Feel free to follow my journey, provide feedback, or learn alongside me!
 
-- [X (Twitter)](https://twitter.com/agentx_eth)
+- [X (Twitter)](https://x.com/agentx_01)
 - [Email](mailto:mrsamoladapo@gmail.com)
