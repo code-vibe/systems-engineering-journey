@@ -71,6 +71,7 @@ fn main() {
     }
 }
 
+```
 ---
 
 # Challenges Faced
